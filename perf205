@@ -1,0 +1,28 @@
+Performance Review Write-upStrengths & Achievements
+
+This year has been marked by significant contributions across core platform stability, engineering excellence, and team development for the P2P Zelle and ASR teams.
+
+Platform Reliability and Stability:
+Successfully achieved near-zero outages for P2P Zelle throughout the year, demonstrating robust system reliability.
+Managed efficient and critical P2P releases with a 100% success rate, ensuring smooth and impactful deployments.
+Drove a critical data center migration, successfully organizing and planning the mapping of all East US2 Zelle services to accept Paynet network traffic from the new data center.
+Achieved near DR/BCP compliance for resources deployed in primary (East US2) and disaster recovery (US Central) regions, supported by well-documented playbooks.
+Stabilized the Azure Functions environment for the East US2 region, enhancing platform consistency.
+Implemented proactive monitoring by onboarding Zelle P2P alerts to Big Panda and creating Zelle Grafana dashboards to measure key metrics for the ASR team.
+Secured end-points for UBS Socket Server Netty administration.
+Eliminated NOPE (Non-Operating Production Events) for Zelle P2P distributed deployments following the successful Postgres Migration to Flex.
+Addressed a critical NOPE for the KDD-fork of Struts by providing a tactical fix to the KDD team, avoiding a major Struts rewrite.
+Engineering and Process Improvement:
+Developed an improved Transaction Simulator, written in Go, to facilitate local testing and faster development cycles.
+Automated a significant portion of manual RLC tasks, shifting the workload to a minimal level for ASR team members during current releases.
+Established diligent processes for reviewing runbooks across various teams, including effective PR/MR reviews with constructive comments.
+Team Building and Culture:
+Successfully onboarded all new team members and fostered strong team building within P2P Zelle.
+Built efficient and inclusive teams, enabling management of Zelle resources with junior staff, supported by a well-documented onboarding guide and "how-to" wiki documentation, along with continuous mentorship. This effort significantly helped new members quickly get up to speed.
+Actively built an engineering culture through constructive feedback and improving team skills via matured discussions.
+Identified the right talent for the MM crew in India.
+Maintained professional, efficient, and impactful conversations with the FIS Vendor, leading to quick handshakes and a clear understanding of their protocols.
+Development or Opportunities
+
+Building upon the success and experience gained, there is an opportunity to expand the scope of my technical contribution.
+Expanded Technical Leadership: As a seasoned solution architect, I seek equal opportunities to contribute significantly in this space, leveraging my platform, reliability, and architecture knowledge to drive broader initiatives beyond the current focus.
