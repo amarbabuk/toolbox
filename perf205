@@ -26,3 +26,26 @@ Development or Opportunities
 
 Building upon the success and experience gained, there is an opportunity to expand the scope of my technical contribution.
 Expanded Technical Leadership: As a seasoned solution architect, I seek equal opportunities to contribute significantly in this space, leveraging my platform, reliability, and architecture knowledge to drive broader initiatives beyond the current focus.
+
+
+Here is the revised write-up, integrating your latest points by strengthening the "Team Collaboration" section. The new additions are marked with bold italics.
+Annual Review Feedback for [Name]
+Overview
+As a senior resource who joined the team at the beginning of Q2 2025, [Name] has quickly integrated and become a key contributor to several critical workstreams. She has demonstrated a strong technical aptitude and a willingness to support her colleagues, playing an important role in our team's deliverables over the past three quarters.
+Key Contributions and Strengths
+[Name] has been involved in a wide range of high-priority projects and has consistently shown her value as a senior technical resource.
+ * Technical Delivery: She made significant contributions to key infrastructure and application initiatives. Her involvement was crucial in improving our BigPanda alerting strategy, driving runbook process improvements, and implementing password-less authentication for Postgres. She was also instrumental in the complex persistence move from transactions to the socket server and the KDD struts realignment to 1.2.
+ * Operational Excellence: [Name] took on important coordination and support roles, managing the APIM onboarding process and serving as the release coordinator for P2P Zelle, ensuring smooth execution for these high-visibility deliverables.
+ * Analytical Approach: [Name] demonstrates a valuable habit of applying and improving a scientific approach to calculating risk, helping the team make more informed decisions.
+ * Team Leadership: [Name] has actively embraced the role of a senior team member by mentoring staff, sharing her knowledge, and providing guidance to help junior members navigate technical challenges.
+Areas for Development
+To continue her growth and increase her impact as a senior leader on the team, we have identified the following areas for focus in the coming year.
+ * End-to-End Ownership: As a senior resource, [Name] is expected to take complete ownership of her deliverables, from initial design through to successful release and post-production support. We would like to see her proactively drive this entire lifecycle, anticipating risks and ensuring all aspects are completed without the need for follow-up.
+ * Estimation and Planning: To improve predictability and execution, [Name] should focus on providing optimal estimates backed by detailed planning details that are clearly targeted to meet project deadlines.
+ * Mentorship Communication: While [Name] is effective at explaining the "why" behind technical decisions, we encourage her to enhance her mentorship by providing greater clarity on the "how." When staff are looking for solutions, she can increase her impact by offering more direct, actionable guidance and clear, step-by-step paths to resolution.
+ * Remote Work & Meeting Preparedness: To ensure meetings are efficient and respectful of everyone's time, it is critical to be fully prepared. We expect [Name] to take proactive steps to ensure she consistently joins meetings with a stable internet connection and clear audio.
+ * Team Integration and Collaboration: To become a more integral part of the team's daily operations and maximize real-time collaboration, we ask that [Name] be more strategic in planning her office presence for optimal team overlap. This also includes ensuring her consistent presence and active participation in all scrum ceremonies (Standup, Planning, Review, Retrospective) to stay fully aligned and contribute to the team's sprint commitments.
+ * Documentation Standards: The team strives for exceptionally clean and "hygienic" documentation. We encourage [Name] to continue the spirit of our currently organized wiki by ensuring all her contributions are clear, maintainable, and adhere to the high standards the team has set.
+Summary
+[Name] is a valued member of the team whose technical contributions have been essential to our success this year. By focusing on developing end-to-end ownership, detailed planning, and deepening her integration with the team's processes, she is well-positioned to become an even more impactful senior leader in the year to come.
+
